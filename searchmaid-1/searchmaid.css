@@ -1,0 +1,20 @@
+a{
+
+	padding: 2px;
+	font-weight: bold;
+	font-size: 14px;
+}
+#image{
+	padding: 2px;
+	height: 17px;
+	width: 17px;
+	margin: 2px;
+}
+nav{
+	border-bottom: 2px solid;
+	border-bottom-color: #ee6e738c;
+}
+.logo{
+	height: 50px;
+	width:150px;
+}
